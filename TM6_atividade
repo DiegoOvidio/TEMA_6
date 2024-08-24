@@ -1,4 +1,5 @@
 let listaDeCompras = ["pão", "leite", "ovos", "queijos", "frutas"];
+console.log(listaDeCompras);
 listaDeCompras.push("café");
 console.log(listaDeCompras);
 listaDeCompras.unshift("manteiga");
